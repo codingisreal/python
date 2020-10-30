@@ -1,0 +1,50 @@
+Scenario 1- 
+
+Single Shift
+
+Jan-Dec Cycle	1/1/2020	12/31/2020
+Current Date - 21th July 2020
+User Changes the month - September
+
+Year Determination - September > July - September 19
+
+Days shifted - New Starting Date (9/1/2019) - Old starting date(1/1/2020) + 1
+
+Result - - DaysShift
+
+Existing goals shifted by +- DaysShift
+
+
+Scenario2-
+ 
+multiple shift
+
+Step 1 ---------- 
+Jan-Dec Cycle	1/1/2020	12/31/2020
+Current Date - 21th July 2020
+User Changes the month - September
+
+Year Determination - September > July - September 19
+
+Days shifted - New Starting Date (9/1/2019) - Old starting date(1/1/2020) + 1
+
+Result - +- DaysShift
+
+Existing goals shifted by - DaysShift
+
+Step 2---------
+Current Cycle - September 2019 - August 2020
+Current Date - 21st July 2020
+
+User changes the month => March
+
+Year Determination = March < July - March 2020
+Days shifted - New Starting Date (3/1/2020) - Old starting date(9/1/2019) + 1
+
+Result = + DaysShift
+
+Existing goals shifted by = + DaysShift
+ 
+ 
+ 
+ 
